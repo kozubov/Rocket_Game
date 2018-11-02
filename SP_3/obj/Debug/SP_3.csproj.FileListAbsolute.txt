@@ -1,0 +1,10 @@
+D:\999\sys_prog\3\SP_3\SP_3\SP_3\bin\Debug\SP_3.exe.config
+D:\999\sys_prog\3\SP_3\SP_3\SP_3\bin\Debug\SP_3.exe
+D:\999\sys_prog\3\SP_3\SP_3\SP_3\bin\Debug\SP_3.pdb
+D:\999\sys_prog\3\SP_3\SP_3\SP_3\obj\Debug\SP_3.csprojAssemblyReference.cache
+D:\999\sys_prog\3\SP_3\SP_3\SP_3\obj\Debug\SP_3.Form1.resources
+D:\999\sys_prog\3\SP_3\SP_3\SP_3\obj\Debug\SP_3.Properties.Resources.resources
+D:\999\sys_prog\3\SP_3\SP_3\SP_3\obj\Debug\SP_3.csproj.GenerateResource.cache
+D:\999\sys_prog\3\SP_3\SP_3\SP_3\obj\Debug\SP_3.csproj.CoreCompileInputs.cache
+D:\999\sys_prog\3\SP_3\SP_3\SP_3\obj\Debug\SP_3.exe
+D:\999\sys_prog\3\SP_3\SP_3\SP_3\obj\Debug\SP_3.pdb
